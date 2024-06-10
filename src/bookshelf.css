@@ -1,0 +1,15 @@
+.shelf {
+    margin-top: 10%;
+    margin-left: 10%;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 150px;
+    display: inline-block;
+    cursor: pointer;
+}
